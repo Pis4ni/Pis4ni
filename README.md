@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fabio</h1>
 <h3 align="center">A Junior full stack developer from Italy!</h3>
 
-(img align="right" alt="Coding" width="400" src="https://i.gifer.com/embedded/download/Ny8a.gif")
+![purple-themed-anime-train-gif](https://github.com/Pis4ni/Pis4ni/assets/135847168/0a143831-5569-4e4e-9673-946cb1583c38)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pis4ni&label=Profile%20views&color=0e75b6&style=flat" alt="pis4ni" /> </p>
 
