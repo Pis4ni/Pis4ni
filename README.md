@@ -23,12 +23,6 @@ Oh, and did I mention? I'm a proud polyglot, fluent in both English 🇺🇸 and
 | <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pis4ni&theme=tokyonight" alt="pis4ni"/>|<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pis4ni&theme=tokyonight" alt="pis4ni"/>|
 
 
- 
-
- 
-
-![code banner](https://github.com/Pis4ni/Pis4ni/assets/135847168/fb5c7ebf-f8cb-4461-a044-7eb45e0c1bd4)
-
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pis4ni&label=Profile%20views&color=0e75b6&style=flat" alt="pis4ni" /> </p>
 
